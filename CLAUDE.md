@@ -2,5 +2,5 @@
 
 Shared WTA knowledge (from ~/wta-knowledge):
 
-@/home/kerrymcclain/wta-knowledge/groups/wta.md
-@/home/kerrymcclain/wta-knowledge/areas/wta/website-brand.md
+@~/wta-knowledge/groups/wta.md
+@~/wta-knowledge/areas/wta/website-brand.md
